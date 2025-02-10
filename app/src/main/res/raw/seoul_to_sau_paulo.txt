@@ -1,0 +1,8 @@
+Source: Seoul - 0 - No visa required
+Stop 1: Beijing - 950 - No visa required
+Stop 2: Moscow - 5800 - Visa required
+Stop 3: Warsaw - 1900 - Visa required
+Stop 4: London - 6200 - Visa required
+Stop 5: New York - 9700 - Visa required
+Stop 6: Rio de Janeiro - 5200 - Visa required
+Destination: Sao Paulo - 500 - Visa required
