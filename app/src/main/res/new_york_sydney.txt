@@ -1,0 +1,5 @@
+Source: New York City - 0 - No visa required
+Stop 1: London - 5500 - Visa required
+Stop 2: Dubai - 7000 - No visa required
+Stop 3: Mumbai - 3000 - Visa on arrival
+Destination: Sydney - 9000 - Visa required

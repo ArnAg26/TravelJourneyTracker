@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/Main"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="#F5F5F5"
+    android:elevation="2dp"
+    android:layout_marginBottom="12dp">
+
+    <TextView
+        android:id="@+id/stopNameText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Stop Name"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <!-- Distance Left -->
+    <TextView
+        android:id="@+id/distanceLeftText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Distance Left: 0 km"
+        android:textSize="16sp"
+        android:layout_marginTop="4dp" />
+
+    <!-- Distance Covered -->
+    <TextView
+        android:id="@+id/distanceCoveredText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Distance Covered: 0 km"
+        android:textSize="16sp"
+        android:layout_marginTop="4dp" />
+
+    <!-- Visa Requirement -->
+    <TextView
+        android:id="@+id/visaRequirementText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Visa Requirement: None"
+        android:textSize="16sp"
+        android:layout_marginTop="4dp" />
+
+    <!-- Progress Bar -->
+    <ProgressBar
+        android:id="@+id/stopProgressBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_marginTop="8dp"
+        android:max="100"
+        android:progress="0" />
+
+</LinearLayout>

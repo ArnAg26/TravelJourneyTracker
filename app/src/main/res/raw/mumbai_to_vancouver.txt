@@ -1,0 +1,7 @@
+Total Distance: 15700 km
+Source: Mumbai - 0 - No visa required
+Stop 1: Dubai - 2000 - No visa required
+Stop 2: Frankfurt - 5200 - Visa required
+Stop 3: Toronto - 6300 - Visa required
+Stop 4: Calgary - 1200 - Visa required
+Destination: Vancouver - 1000 - Visa required
